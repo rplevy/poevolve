@@ -1,0 +1,1108 @@
+"a" - "a" - "uh" - 0
+"abominable" - "a" "bom" "i" "nab" "le" - "uh" , "b" "ah" "m" , "ih" , "n" "uh" "b" , "uh" "l" - 2  
+"about" - "a" "bout" - "uh" , "b" "ao" "t" - 2
+"abscissa" - "a" "bsciss" "a" - "ae" "b" , "s" "ih" "s" , "uh" - 2 
+"academia" - "a" "cad" "e" "mi" "a" - "ae" "k" , "uh" , "d" "eh" "m" , "ee" , "uh" - 3
+"achieving" - "a" "chiev" "ing" - "uh" , "ch" "ee" "v" , "ih" "ng" - 2  
+"act" - "act" - "ae" "k" "t" - 1
+"adorned" - "a" "dor" "ned" - "uh" , "d" "au" "r" "n" "d" - 2
+"after" - "a" "fter" - "ae" "f" , "t" "uh" "r" - 1
+"again" - "a" "gain" - "uh" , "g" "eh" "n" - 2 
+"agent" - "a" "gent" - "ay" , "j" "eh" "n" "t" - 1
+"aghast" - "a" "ghast" - "uh" , "g" "ae" "s" "t" - 2
+"agree" - "a" "gree" - "uh" , "g" "r" "ee" - 2
+"alarmed" - "a" "larmed" - "uh" , "l" "ah" "r" "m" "d" - 2
+"alas" - "a" "las" - "uh" , "l" "ae" "s" - 2 
+"Alfredo" - "al" "fre" "do" - "ah" "l" , "f" "r" "ay" "d" , "oh" - 2
+"Alfredo¹s" - "al" "fre" "do¹s" - "ah" "l" , "f" "r" "ay" "d" , "oh" "z" - 2
+"all" - "all" - "au" "l" - 1
+"alligator" - "al" "lig" "at" "or" - "ae" , "l" "ih" "g" , "ay" , "t" "uh" "r" - 1
+"along" - "a" "long" - "uh" , "l" "au" "ng" - 2
+"although" - "al" "though" - "au" "l" , "thh" "oh" - 2
+"always" - "al" "ways" - "au" "l" , "w" "ay" "z" - 1 
+"amazes" - "a" "maze" "s" - "uh" , "m" "ay" "z" , "uh" "z" - 2
+"amongst" - "a" "mongst" - "uh" , "m" "uh" "ng" "s" "t" - 2
+"amorous" - "am" "orous" - "ae" , "m" "uh" "r" , "uh" "s" - 1 
+"an" - "an" - "uh" "n" - 0
+"anapests" - "an" "a" "pests" - "ae" "n" , "uh" , "p" "eh" "s" "t" "s" - 1
+"ancient" - "an" "cient" - "ay" "n" , "ch" "eh" "n" "t" - 1
+"and" - "and" - "ae" "n" "d" - 0
+"annoyed" - "an" "noyed" - "uh" , "n" "oy" "d" - 2
+"another" - "an" "oth" "er" - "uh" , "n" "uh" "thh" , "uh" "r" - 2 
+"antique" - "an" "tique" - "ae" "n" , "t" "ee" "k" - 2
+"any" - "an" "y" - "eh" , "n" "ee" - 1
+"anything" - "an" "y" "thing" - "eh" , "n" "ee" , "th" "ih" "ng" - 1
+"appall" - "ap" "pall" - "uh" , "p" "au" "l" - 2
+"apparel" - "ap" "par" "el" - "uh" , "p" "ae" "r" , "uh" "l" - 2
+"apple" - "ap" "ple" - "ae" , "p" "uh" "l" - 1
+"apples" - "ap" "ple" - "ae" , "p" "uh" "l" "z" - 1
+"apprentice" - "ap" "pren" "tice" - "uh" , "p" "r" "eh" "n" "t" , "ih" "s" - 2
+"aquatic" - "a" "qua" "tic" - "uh" , "k" "w" "ah" , "t" "ih" "k" - 2
+"arch" - "arch" - "ah" "r" "ch" - 1
+"are" - "are" - "ah" "r" - 0
+"around" - "a" "round" - "uh" , "r" "ao" "n" "d" - 2
+"as" - "as" - "ae" "z" - 0
+"ask" - "ask" - "ae" "s" "k" - 1
+"asked" - "asked" - "ae" "s" "k" "t" - 1
+"aspiring" - "as" "pi" "ring" - "uh" , "s" "p" "ai" "r" , "ih" "ng" - 2
+"ass" - "ass" - "ae" "s" - 1
+"asset" - "ass" "et" - "ae" , "s" "eh" "t" - 1
+"assist" - "ass" "ist" - "uh" , "s" "ih" "s" "t" - 2
+"astonished" - "as" "ton" "ished" - "uh" , "s" "t" "ah" "n" , "ih" "sh" "t" - 2
+"Asturias" - "a" "stur" "i" "as" - "uh" , "s" "t" "uh" "r" , "ee" , "uh" "s" - 2
+"at" - "at" - "ae" "t" - 0
+"ate" - "ate" - "ay" "t" - 1
+"attempt" - "at" "temp" - "uh" , "t" "eh" "m" "p" "t" - 2
+"attempted" - "at" "temp" "ted" - "uh" , "t" "eh" "m" "p" , "t" "uh" "d" - 2
+"Attila" - "a" "til" "a" - "uh" , "t" "ih" "l" , "uh" - 2
+"attitude" - "at" "tit" "ude" - "ae" , "t" "ih" "t" , "uw" "d" - 1
+"aunt" - "aunt" - "ae" "n" "t" - 1
+"away" - "a" "way" - "uh" , "w" "ay" - 2 
+"awefully" - "awe" "ful" "ly" - "au" , "f" "uh" "l" , "ee" - 1 
+"awoke" - "a" "woke" - "uh" , "w" "oh" "k" - 2
+"axlegrease" - "ax" "le" "grease" - "ae" "k" , "s" "uh" "l" , "g" "r" "ee" "s" - 1 
+"backed" - "backed" - "b" "ae" "k" "t" - 1
+"ball" - "ball" - "b" "au" "l" - 1
+"bandit" - "band" "it" - "b" "ae" "n" , "d" "ih" "t" - 1
+"bank" - "bank" - "b" "ae" "ng" "k" - 1
+"banker" - "bank" "er" - "b" "ae" "ng" , "k" "uh" "r" - 1
+"bannister" - "ban" "is" "ter" - "b" "ae" "n" , "ih" , "s" "t" "uh" "r" - 1
+"barge" - "barge" - "b" "ah" "r" "j"- 1
+"be" - "be" - "b" "ee" - 1
+"beard" - "beard" - "b" "ee" "r" "d" - 1
+"beau" - "beau" - "b" "oh" - 1
+"became" - "be" "came" - "b" "ee" , "k" "ay" "m" - 2
+"bed" - "bed" - "b" "eh" "d" - 1
+"been" - "been" - "b" "eh" "n" - 1
+"before" - "be" "fore" - "b" "ee" , "f" "au" "r" - 2
+"behave" - "be" "have" - "b" "ee" , "h" "ay" "v" - 2
+"behaved" - "be" "haved" - "b" "ee" , "h" "ay" "v" "d" - 2
+"behind" - "be" "hind" - "b" "ee" , "h" "ai" "n" "d" - 2
+"bench" - "bench" - "b" "eh" "n" "ch" - 1
+"bender" - "ben" "der" - "b" "eh" "n" , "d" "uh" "r" - 1
+"bent" - "bent" - "b" "eh" "n" "t" - 1
+"berate" - "be" "rate" - "b" "ee" , "r" "ay" "t" - 2
+"betters" - "bet" "ters" - "b" "eh" , "t" "uh" "r" "z" - 1
+"bit" - "bit" - "b" "ih" "t" - 1
+"blast" - "blast" - "b" "l" "ae" "s" "t" - 1
+"blew" - "blew" - "b" "l" "uw" - 1
+"blocks" - "blocks" - "b" "l" "ah" "k" "z" - 1
+"blubb" - "blubb" - "b" "l" "uh" "b" - 1
+"boarding" - "boar" "ding" - "b" "au" "r" , "d" "ih" "ng" - 1
+"boat" - "boat" - "b" "oh" "t" - 1
+"body" - "bo" "dy" - "b" "ah" , "d" "ee" - 1
+"bologna" - "bo" "lo" "gna" - "b" "uh" , "l" "oh" "n" , "ee" - 2
+"bomb" - "bomb" - "b" "ah" "m" - 1
+"book" - "book" - "b" "oo" "k" - 1
+"bore" - "bore" - "b" "au" "r" - 1
+"born" - "born" - "b" "au" "r" "n" - 1
+"break" - "break" - "b" "r" "ay" "k" - 1
+"breath" - "breath" - "b" "r" "eh" "th" - 1
+"bring" - "bring" - "b" "r" "ih" "ng" - 1
+"Britain" - "bri" "tain" - "b" "r" "ih" "t" , "uh" "n" - 1
+"brother" - "bro" "ther" - "b" "r" "uh" "thh" , "uh" "r" - 1
+"brute" - "brute" - "b" "r" "uw" "t" - 1
+"Brutus" - "bru" "tus" - "b" "r" "uw" "t" , "uh" "s" - 1
+"bucket" - "buc" "ket" - "b" "uh" "k" , "uh" "t" - 1
+"bug" - "bug" - "b" "uh" "g" - 1
+"bugs" - "bugs" - "b" "uh" "g" "z" - 1
+"build" - "build" - "b" "ih" "l" "d" - 1
+"built" - "built" - "b" "ih" "l" "t" - 1
+"buried" - "bur" "ied" - "b" "ae" "r" , "ee" "d" - 1
+"Burke" - "Burke" - "b" "uh" "r" "k" - 1
+"burned" - "burned" - "b" "uh" "r" "n" "d" - 1
+"burning" - "burn" "ing" - "b" "uh" "r" , "n" "ih" "ng" - 1 
+"businessman" - "busi" "ness" "man" - "b" "ih" "z" , "n" "uh" "s" , "m" "ae" "n" - 1
+"but" - "but" - "b" "uh" "t" - 0
+"butcher" - "but" "cher" - "b" "oo" , "ch" "uh" "r" - 1
+"buts" - "buts" - "b" "uh" "t" "z" - 1
+"butter" - "but" "ter" - "b" "uh" , "t" "uh" "r" - 1
+"buy" - "buy" - "b" "ai" - 1
+"by" - "by" - "b" "ai" - 0
+"Caesar" - "cae" "sar" - "s" "ee" , "z" "uh" "r" - 1
+"called" - "called" - "k" "au" "l" "d" - 1
+"calligrapher" - "cal" "lig" "rap" "her" - "k" "uh" , "l" "ih" "g" , "r" "uh" , "f" "uh" "r" - 2
+"came" - "came" - "k" "ay" "m" - 1
+"can" - "can" - "k" "ae" "n" - 1
+"canner" - "can" "ner - "k" "ae" "n" , "uh" "r" - 1
+"cannister" - "can" "nis" "ter" - "k" "ae" "n" , "ih" , "s" "t" "uh" "r" - 1
+"canny" - "can" "ny" - "k" "ae" , "n" "ee" - 1
+"can¹t" - "can¹t" - "k" "ae" "n" "t" - 1
+"cape" - "cape" - "k" "ay" "p" - 1
+"captain" - "cap" "tain" - "k" "ae" "p" , "t" "uh" "n" - 1
+"caroled" - "ca" "roled" - "k" "ae" , "r" "uh" "l" "d" - 2
+"cash" - "cash" - "k" "ae" "sh" - 1
+"castle" - "ca" "stle" - "k" "ae" , "s" "uh" "l" - 1
+"casually" - "cas" "u" "al" "ly" - "k" "ae" "zh" , "uw" , "uh" , "l" "ee" - 1
+"cat" - "cat" - "k" "ae" "t" - 1
+"caught" - "caught" - "k" "au" "t" - 1
+"cause" - "cause" - "k" "au" "z" - 1
+"caused" - "caused" - "k" "au" "z" "d" - 1
+"cautiously" - "caut" "ious" "ly" - "k" "au" , "sh" "uh" "s" , "l" "ee" - 1
+"cave" - "cave" - "k" "ay" "v" - 1
+"censors" - "cen" "sors" - "s" "eh" "n" , "s" "uh" "r" "z" - 1
+"chair" - "chair" - "ch" "ae" "r" - 1
+"charm" - "charm" - "ch" "ah" "r" "m" - 1
+"chase" - "chase" - "ch" "ay" "s" - 1
+"chased" - "chased" - "ch" "ay" "s" "t" - 1
+"checks" - "checks" - "ch" "eh" "k" "z" - 1
+"Chertsey" - "chert" "sey" - "ch" "uh" "r" "t" , "s" "ee" - 1
+"chicken" - "chi" "cken" - "ch" "ih" , "k" "eh" "n"- 1
+"chili" - "chi" "li" - "ch" "ih" "l" , "ee" - 1
+"christ" - "christ" - "k" "r" "ai" "s" "t" - 1
+"christmas" - "christ" "mas" - "k" "r" "ih" "s" , "m" "uh" "s" - 1
+"cider" - "ci" "der" - "s" "ai" , "d" "uh" "r" - 1
+"circus" - "cir" "cus" - "s" "uh" "r" , "k" "uh" "s" - 1
+"city" - "ci" "ty" - "s" "ih" "t" , "ee" - 1
+"civilized" - "civ" "il" "ized" - "s" "ih" "v" , "ih" , "l" "ai" "z" "d" - 1
+"claimed" - "claimed" - "k" "l" "ay" "m" "d" - 1
+"class" - "class" - "k" "l" "ae" "s" - 1
+"clean" - "clean" - "k" "l" "ee" "n" - 1
+"cleaning" - "clea" "ning" - "k" "l" "ee" "n" , "ih" "ng" - 1
+"clerk" - "clerk" - "k" "l" "uh" "r" "k" - 1
+"click" - "click" - "k" "l" "ih" "k" - 1
+"climbed" - "climbed" - "k" "l" "ai" "m" "d" - 1
+"clone" - "clone" - "k" "l" "oh" "n" - 1
+"clothes" - "clothes" - "k" "l" "oh" "thh" "z" - 1
+"Clyde" - "clyde" - "k" "l" "ai" "d" - 1
+"cologne" - "co" "logne" - "k" "uh" "l" , "oh" "n" - 2
+"come" - "come" - "k" "uh" "m" - 1
+"coming" - "com" "ing" - "k" "uh" "m" , "ih" "ng" - 1
+"commends" - "com" "mends" - "k" "uh" "m" , "eh" "n" "d" "z" - 2
+"complete" - "com" "plete - "k" "uh" "m" , "p" "l" "ee" "t" - 2
+"composing" - "com" "pos" "ing" - "k" "uh" "m" , "p" "oh" "z" , "ih" "ng" - 2
+"computer" - "com" "put" "er" - "k" "uh" "m" , "p" "y" "uw" "t" , "uh" "r" - 2
+"compute" - "com" "pute" - "k" "uh" "m" , "p" "y" "uw" "t" - 2
+"concluding" - "con" "clud" "ing" - "k" "uh" "n" , "k" "l" "uw" "d" , "ih" "ng" - 2
+"conduct" - "con" "duct" - "k" "ah" "n" , "d" "uh" "k" "t" - 1 2
+"confused" - "con" "fused" - "k" "uh" "n" , "f" "y" "uw" "z" "d" - 2
+"considering" - "con" "sid" "er" "ing" - "k" "uh" "n" , "s" "ih" "d" , "uh" "r" , "ih" "ng" - 2
+"constant" - "con" "stant" - "k" "ah" "n" "s" , "t" "uh" "n" "t" - 1
+"cooked" - "cooked" - "k" "oo" "k" "t" - 1
+"copy" - "co" "py" - "k" "ah" "p" , "ee" - 1
+"cord" - "cord" - "k" "au" "r" "d" - 1
+"cork" - "cork" - "k" "au" "r" "k" - 1
+"corpulent" - "cor" "pu" "lent" - "k" "au" "r" , "p" "y" "uw" , "l" "eh" "n" "t" - 1
+"couch" - "couch" - "k" "au" "ch" - 1
+"could" - "could" - "k" "oo" "d" - 1
+"couldn¹t" - "could" "n¹t" - "k" "oo" "d" , "uh" "n" "t" - 1
+"course" - "course" - "k" "au" "r" "s" - 1
+"covered" - "cov" "ered" - "k" "uh" , "v" "uh" "r" "d" - 1
+"cranky" - "cran" "ky" - "k" "r" "ae" "n" "k" , "ee" - 1
+"crash" - "crash" - "k" "r" "ae" "sh" - 1
+"creditors" - "cred" "it" "ors" - "k" "r" "eh" "d" , "ih" , "t" "uh" "r" "z" - 1
+"cried" - "cried" - "k" "r" "ai" "d" - 1
+"cross" - "cross" - "k" "r" "au" "s" - 1
+"crowd" - "crowd" - "k" "r" "ao" "d" - 1
+"curious" - "cur" "i" "ous" - "k" "y" "uh" "r" , "ee" , "uh" "s" - 1
+"cursed" - "cursed" - "k" "uh" "r" "s" "t" - 1
+"curtsey" - "curt" "sey" - "k" "uh" "r" "t" , "s" "ee" - 1
+"curve" - "curve" - "k" "uh" "r" "v" - 1
+"cut" - "cut" - "k" "uh" "t" - 1
+"daily" - "dai" "ly" - "d" "ay" , "l" "ee" - 1
+"dance" - "dance" - "d" "ae" "n" "s" - 1
+"danced" - "danced" - "d" "ae" "n" "s" "t" - 1
+"dangerous" - "dan" "ger" "ous" - "d" "ay" "n" , "j" "uh" "r" , "uh" "s" - 1
+"dare" - "dare"- "d" "ae" "r" - 1
+"daughter" - "daugh" "ter"- "d" "au" , "t" "uh" "r" - 1
+"Dave" - "dave" - "d" "ay" "v" - 1
+"day" - "day" - "d" "ay" - 1
+"days" - "days" - "d" "ay" "z" - 1
+"dead" - "dead" - "d" "eh" "d" - 1
+"deal" - "deal" - "d" "ee" "l" - 1
+"dean" - "dean" - "d" "ee" "n" - 1
+"debate" - "de" "bate" - "d" "uh" , "b" "ay" "t" - 2
+"deep" - "deep" - "d" "ee" "p" - 1
+"demon" - "de" "mon" - "d" "ee" , "m" "uh" "n" - 1
+"demure" - "de" "mure" - "d" "uh" , "m" "uh" "r" - 2
+"denied" - "de" "nied" - "d" "uh" , "n" "ai" "d" - 2
+"deny" - "de" "ny" - "d" "uh" , "n" "ai" - 2
+"deploys" - "de" "ploy" - "d" "ee" , "p" "l" "oy" "z" - 2
+"Descartes" - "des" "cartes" - "d" "ay" , "k" "ah" "r" "t" - 2
+"despair" - "de" "spair" - "d" "ih" , "s" "p" "ae" "r" - 2
+"detained" - "de" "tained" - "d" "uh" , "t" "ay" "n" "d" - 2
+"dialing" - "dial" "ing" - "d" "ai" "l" , "ih" "ng" - 1
+"did" - "did" - "d" "ih" "d" - 0
+"die" - "die" - "d" "ai" - 1
+"died" - "died" - "d" "ai" "d" - 1
+"din" - "din" - "d" "ih" "n" - 1
+"dine" - "dine" - "d" "ai" "n" - 1
+"dinner" - "din" "ner" - "d" "ih" "n" , "uh" "r" - 1
+"dinosaur" - "din" "oh" "saur" - "d" "ai" "n" , "uh" , "s" "au" "r" - 1
+"dislike" - "dis" "like" - "d" "ih" "s" , "l" "ai" "k" - 2
+"distance" - "dis" "tance" - "d" "ih" "s" , "t" "uh" "n" "s" - 1
+"distressed" - "dis" "tressed" - "d" "ih" "s" , "t" "r" "eh" "s" "t" - 2
+"diverse" - "di" "verse" - "d" "ih" , "v" "uh" "r" "s" - 2
+"do" - "do" - "d" "uw" - 1
+"Dolorous" - "do" "lo" "rous" - "d" "uh" "l" , "au" , "r" "uh" "s" - 2
+"donkey" - "don" "key" - "d" "au" "ng" , "k" "ee" - 1
+"don¹t" - "don¹t" - "d" "oh" "n" "t" - 1
+"door" - "door" - "d" "au" "r" - 1
+"down" - "down" - "d" "ao" "n" - 1
+"dozed" - "dozed" - "d" "oh" "z" "d" - 1
+"drag" - "drag" - "d" "r" "ae" "g" - 1
+"drawl" - "drawl" - "d" "r" "au" "l" - 1
+"drawling" - "draw" "ling" - "d" "r" "au" "l" , "ih" "ng" - 1
+"dress" - "dress" - "d" "r" "eh" "s" - 1
+"dressed" - "dressed"- "d" "r" "eh" "s" "t" - 1
+"drew" - "drew" - "d" "r" "uw" - 1
+"droll" - "droll" - "d" "r" "oh" "l" - 1
+"dropout" - "drop" "out" - "d" "r" "ah" "p" , "ao" "t" - 1
+"duck" - "duck" - "d" "uh" "k" - 1
+"duckie" - "duck" "ie" - "d" "uh" "k" , "ee" - 1
+"each" - "each" - "ee" "ch" - 0
+"ear" - "ear" - "ee" "r" - 1
+"earring" - "ear" "ring" - "ee" , "r" "ih" "ng" - 1 2
+"ears" - "ears" - "ee" "r" "s" - 1
+"Easter" - "east" "er" - "ee" , "s" "t" "uh" "r" - 1
+"eating" - "ea" "ting" - "ee" , "t" "ih" "ng" - 1
+"Edward" - "ed" "ward" - "eh" "d" , "w" "uh" "r" "d" - 1
+"efficient" - "e" "fic" "ient" - "eh" , "f" "ih" , "sh" "uh" "n" "t" - 2
+"eggs" - "eggs" - "eh" "g" "z" - 1
+"Egyptian" - "e" "gyp" "tian" - "ee" , "j" "ih" "p" , "ch" "uh" "n" - 2
+"Em" - "em" - "eh" "m" - 1
+"end" - "end" - "eh" "n" "d" - 1
+"entered" - "en" "tered" - "eh" "n" , "t" "uh" "r" "d" - 1
+"entire" - "en" "tire" - "eh" "n" , "t" "ai" "r" - 2
+"entrusting" - "en" "trust" "ing" - "eh" "n" , "t" "r" "uh" "s" "t" , "ih" "ng" - 2
+"Esmerelder" - "es" "mer" "el" "der" - "eh" "z" , "m" "uh" "r" , "eh" "l" , "d" "uh" "r" - 3
+"especially" - "es" "pec" "ial" "ly" - "eh" , "s" "p" "eh" "sh" , "uh" , "l" "ee" - 2 
+"Europa¹s" - "eur" "op" "a" - "y" "uw" , "r" "oh" "p" , "uh" - 2
+"evening" - "eve" "ning" - "ee" , "v" "uh" "n" , "ih" "ng" - 1
+"ever" - "ev" "er" - "eh" , "v" "uh" "r" -  1
+"every" - "ev" "ry" - "eh" "v" , "r" "ee" - 1
+"exceedingly" - "ex" "ceed" "ing" "ly" - "eh" "k" , "s" "ee" "d" , "ih" "ng" , "l" "ee" - 2
+"exit" - "ex" "it" - "eh" "g" , "z" "ih" "t" - 1
+"extinct" - "ex" "tinct" - "eh" "k" "s" , "t" "ih" "ng" "k" "t" - 2
+"face" - "face" - "f" "ay" "s" - 1
+"failed" - "failed" - "f" "ay" "l" "d" - 1
+"faith" - "faith" - "f" "ay" "th" - 1
+"fall" - "fall" - "f" "au" "l" - 1
+"falls" - "falls" - "f" "au" "l" "z" - 1
+"fancy" - "fan" "cy"- "f" "ae" "n" , "s" "ee" - 1
+"Fannister" - "fan" "nist" "er" - "f" "ae" "n" , "ih" , "s" "t" "uh" "r" - 1
+"farmer" - "farm" "er" - "f" "ah" "r" , "m" "uh" "r" - 1
+"fast" - "fast" - "f" "ae" "s" "t" - 1
+"fat" - "fat" - "f" "ae" "t" - 1
+"fate" - "fate" - "f" "ay" "t" - 1
+"fatten" - "fat" "ten" - "f" "ae" "t" , "eh" "n" - 1
+"feared" - "feared" - "f" "ee" "r" "d" - 1
+"features" - "fea" "tures"- "f" "ee" , "ch" "uh" "r" "z" - 1
+"fed" - "fed" - "f" "eh" "d" - 1
+"feel" - "feel" - "f" "ee" "l" - 1 
+"feeling" - "feel" "ing" - "f" "ee" , "l" "ih" "ng" - 1
+"feels" - "feels" - "f" "ee" "l" "z" - 1
+"fell" - "fell" - "f" "eh" "l" - 1
+"fellow" - "fel" "low" - "f" "eh" , "l" "oh" - 1
+"felt" - "felt" - "f" "eh" "l" "t" - 1
+"fender" - "fen" "der" - "f" "eh" "n" , "d" "uh" "r" - 1
+"fermented" - "fer" "men" "ted" - "f" "uh" "r" , "m" "eh" "n" , "t" "uh" "d" - 2
+"few" - "few" - "f" "y" "uw" - 1
+"field" - "field" - "f" "ee" "l" "d" - 1
+"fifteen" - "fif" "teen" - "f" "ih" "f" , "t" "ee" "n" - 2
+"fight" - "fight" - "f" "ai" "t" - 1
+"figs" - "figs" - "f" "ih" "g" "z" - 1
+"filet" - "fi" "let" - "f" "ih" , "l" "ay" - 2
+"filled" - "filled" - "f" "ih" "l" "d" - 1
+"filling" - "filling" - "f" "ih" "l" , "ih" "ng" - 1
+"find" - "find" - "f" "ai" "n" "d" - 1
+"finger" - "fing" "er" - "f" "ih" "ng" , "g" "uh" "r" - 1
+"fingers" - "fing" "ers" - "f" "ih" "ng" , "g" "uh" "r" "z" - 1
+"finished" - "fin" "ished" - "f" "ih" "n" , "ih" "sh" "d" - 1
+"fire" - "fire" - "f" "ai" "r" - 1
+"fired" - "fired" - "f" "ai" "r" "d" - 1
+"fishing" - "fish" "ing" - "f" "ih" "sh" , "ih" "ng" - 1
+"flat" - "flat" - "f" "l" "ae" "t" - 1
+"Flo" - "flo" - "f" "l" "oh" - 1
+"floss" - "floss" - "f" "l" "au" "s" - 1
+"flunking" - "flunk" "ing" - "f" "l" "uh" "ng" , "k" "ih" "ng" - 1
+"Flynn" - "flynn" - "f" "l" "ih" "n" - 1
+"followed" - "fol" "lowed" - "f" "ah" , "l" "oh" "d" - 1
+"for" - "for" - "f" "au" "r" - 0
+"forge" - "forge" - "f" "au" "r" "j" - 1
+"formed" - "formed" - "f" "au" "r" "m" "d" - 1
+"former" - "form" "er" - "f" "au" "r" , "m" "uh" "r" - 1
+"formula" - "form" "u" "la" - "f" "au" "r" "m" , "y" "uw" , "l" "uh" - 1
+"fortunes" - "for" "tunes" - "f" "au" "r" , "ch" "uh" "n" "z" - 1
+"forty" - "for" "ty" - "f" "au" "r" , "t" "ee" - 1
+"foss" - "foss" - "f" "au" "s" - 1
+"found" - "found" - "f" "ao" "n" "d" - 1
+"four" - "four" - "f" "au" "r" - 1
+"fourteen" - "four" "teen" - "f" "au" "r" , "t" "ee" "n" - 2
+"France" - "france" - "f" "r" "ae" "n" "s" - 1 
+"frantic" - "fran" "tic"- "f" "r" "ae" "n" , "t" "ih" "k" - 1
+"French" - "french" - "f" "r" "eh" "n" "ch" - 1
+"friskier" - "fris" "ki" "er"- "f" "r" "ih" "s" , "k" "ee" , "uh" "r" - 1
+"from" - "from" - "f" "r" "uh" "m" - 0
+"front" - "front" - "f" "r" "uh" "n" "t" - 1
+"froze" - "froze" - "f" "r" "oh" "z" - 1
+"Fulton" - "ful" "ton" - "f" "uh" "l" , "t" "uh" "n" - 1
+"fun" - "fun" - "f" "uh" "n" - 1
+"function" - "func" "tion" - "f" "uh" "n" "k" , "sh" "uh" "n" - 1
+"funeral" - "fun" "er" "al" - "f" "y" "uw" "n" , "uh" , "r" "uh" "l" - 1
+"funny" - "fun" "ny" - "f" "uh" , "n" "ee" - 1
+"furious" -"fur" "i" "ous" - "f" "y" "uh" "r" , "ee" , "uh" "s" - 1
+"fuss" - "fuss" - "f" "uh" "s" - 1
+"future" - "fut" "ure" - "f" "y" "uw" , "ch" "uh" "r" - 1
+"gad" - "gad" - "g" "ae" "d" - 1
+"gaps" - "gaps" - "g" "ae" "p" "z" - 1
+"garlicky" - "gar" "lic" "ky" - "g" "ah" "r" , "l" "ih" "k" , "ee" - 1 
+"gas" - "gas" - "g" "ae" "s" - 1
+"gaul" - "gaul" - "g" "au" "l" - 1
+"gave" - "gave" - "g" "ay" "v" - 1
+"gee" - "gee" - "j" "ee" - 0
+"geezer" - "geez" "er" - "g" "ee" "z" , "uh" "r" - 1
+"George" - "george" - "j" "au" "r" "j" - 1
+"German" - "ger" "man" - "j" "uh" "r" , "m" "uh" "n" - 1
+"Germany" - "ger" "ma" "ny" - "j" "uh" "r" , "m" "uh" "n" , "ee" - 1
+"get" - "get" - "g" "eh" "t" - 1
+"giants" - "gi" "ants" - "j" "ai" , "uh" "n" "t" "z" - 1 
+"girl" - "girl" - "g" "ih" "r" "l" - 1
+"girls" - "girls" - "g" "ih" "r" "l" "z" - 1
+"give" - "give" - "g" "ih" "v" - 1
+"given" - "gi" "ven" - "g" "ih" "v" , "uh" "n" - 1
+"gives" - "gives" - "g" "ih" "v" "z" - 1
+"glad" - "glad" - "g" "l" "ae" "d" - 1
+"glee" - "glee" - "g" "l" "ee" - 1
+"glob" - "glob" - "g" "l" "ah" "b" - 1
+"go" - "go" - "g" "oh" - 1
+"goat" - "goat" - "g" "oh" "t" - 1
+"goes" - "goes" - "g" "oh" "z" - 1
+"good" - "good" - "g" "oo" "d" - 1
+"Gordon" - "gor" "don" - "g" "au" "r" , "d" "uh" "n" - 1
+"gorge" - "gorge" - "g" "au" "r" "j" - 1
+"got" - "got" - "g" "ah" "t" - 0
+"gown" - "gown" - "g" "ao" "n" - 1
+"graduation" - "grad" "u" "a" "tion" - "g" "r" "ae" , "j" "uw" , "ay" , "sh" "uh" "n" - 3 
+"grandmothers" - "grand" "moth" "ers" - "g" "r" "ae" "n" "d" , "m" "uh" "thh" , "uh" "r" "z" - 1
+"grange" - "grange" - "g" "r" "ay" "n" "j" - 1
+"granny" - "gran" "ny" - "g" "r" "ae" "n" , "ee" - 1
+"graphing" - "graph" "ing" - "g" "r" "ae" "f" , "ih" "ng" - 1
+"grass" - "grass" - "g" "r" "ae" "s" - 1
+"gratitude" - "grat" "i" "tude" - "g" "r" "ae" "d" , "ih" , "t" "uw" "d" - 1
+"greased" - "greased" - "g" "r" "ee" "s" "t" - 1
+"great" - "great" - "g" "r" "ay" "t" - 1
+"green" - "green" - "g" "r" "ee" "n" - 1
+"grew" - "grew" - "g" "r" "uw" - 1
+"grey" - "grey" - "g" "r" "ay" - 1
+"grin" - "grin" - "g" "r" "ih" "n" - 1
+"grinders" - "grin" "ders" - "g" "r" "ai" "n" , "d" "uh" "r" "z" - 1
+"grist" - "grist" - "g" "r" "ih" "s" "t" - 1
+"ground" - "ground" - "g" "r" "ao" "n" "d" - 1
+"grow" - "grow" - "g" "r" "oh" - 1
+"growing" - "grow" "ing" - "g" "r" "oh" , "ih" "ng" - 1
+"guess" - "guess" - "g" "eh" "s" - 1
+"gun" - "gun" - "g" "uh" "n" - 1
+"guy" - "guy" - "g" "ai" - 1
+"habit" - "hab" "it" - "h" "ae" , "b" "ih" "t" - 1
+"had" - "had" - "h" "ae" "d" - 0
+"hadnt" - "had" "n¹t" - "h" "ae" "d" , "uh" "n" "t" - 0
+"hailed" - "hailed" - "h" "ay" "l" "d" - 1
+"hair" - "hair" - "h" "ae" "r" - 1
+"hands" - "hands" - "h" "ae" "n" "d" "z" - 1
+"hard" - "hard" - "h" "ah" "r" "d" - 1
+"hardly" - "hard" "ly" - "h" "ah" "r" "d" , "l" "ee" - 1
+"harmony" - "har" "mo" "ny" - "h" "ah" "r" "m" , "uh" , "n" "ee" - 1
+"Harold" - "har" "old" - "h" "ae" "r" , "uh" "l" "d" - 1
+"Harriet" - "har" "ri" "et" - "h" "ae" "r" , "ee" , "uh" "t" - 1
+"has" - "has" - "h" "ae" "z" - 0
+"hat" - "hat" - "h" "ae" "t" - 1
+"have" - "have" - "h" "ae" "v" - 1
+"havent" - "hav" "ent" - "h" "ae" "v" , "uh" "n" "t" - 1
+"he" - "he" - "h" "ee" - 0
+"head" - "head" - "h" "eh" "d" - 1
+"healer" - "heal" "er" - "h" "ee" "l" , "uh" "r" - 1
+"heard" - "heard" - "h" "uh" "r" "d" - 1
+"heaviest" - "heav" "i" "est" - "h" "eh" "v" , "ee" , "uh" "s" "t" - 1
+"hee" - "hee" - "h" "ee" - 1
+"heed" - "hed" - "h" "ee" "d" - 1
+"heels" - "heels" - "h" "ee" "l" "z" - 1
+"hefty" - "hef" "ty" - "h" "eh" "f" , "t" "ee" - 1
+"held" - "held" - "h" "eh" "l" "d" - 1
+"hell" - "hell" - "h" "eh" "l" - 1
+"helped" - "helped" - "h" "eh" "l" "p" "d" - 1
+"hen" - "hen" - "h" "eh" "n" - 1
+"her" - "her" - "h" "uh" "r" - 0
+"here" - "here" - "h" "ee" "r" - 1
+"Herman" - "her" "man" - "h" "uh" "r" , "m" "uh" "n" - 1
+"hermit" - "her" "mit" - "h" "uh" "r" , "m" "ih" "t" - 1
+"hermits" - "her" "mits" - "h" "uh" "r" , "m" "ih" "t" "z" - 1
+"he¹s" - "he¹s" - "h" "ee" "z" - 0
+"hiding" - "hi" "ding" - "h" "ai" "d" , "ih" "ng" - 1
+"hieroglyphic" - "hie" "ro" "gly" "phic" - "h" "ai" "r" , "oh" , "g" "l" "ih" , "f" "ih" "k" - 3
+"high" - "high" - "h" "ai" - 1
+"highest" - "high" "est" - "h" "ai" , "eh" "s" "t" - 1
+"hill" - "hill" - "h" "ih" "l" - 1
+"hillbilly" - "hill" "bill" "y" - "h" "ih" "l" , "b" "ih" "l" , "ee" - 1
+"him" - "him" - "h" "ih" "m" - 1
+"hippo" - "hip" "po" - "h" "ih" "p" , "oh" - 1
+"hippopotamus" - "hip" "po" "pot" "a" "mus" - "h" "ih" "p" , "oh" , "p" "ah" "t" , "oh" , "m" "uh" "s" - 3
+"hired" - "hired" - "h" "ai" "r" "d" - 1
+"his" - "his" - "h" "ih" "z" - 0
+"hit" - "hit" - "h" "ih" "t" - 1
+"hitched" - "hitched" - "h" "ih" "ch" "t" - 1
+"hod" - "hod" - "h" "ah" "d" - 1
+"homely" - "home" "ly" - "h" "oh" "m" , "l" "ee" - 1
+"hoped" - "hoped" - "h" "oh" "p" "t" - 1
+"horn" - "horn" - "h" "au" "r" "n" - 1
+"hornpipes" - "horn" "pipes" - "h" "au" "r" "n" , "p" "ai" "p" "z" - 1
+"hot" - "hot" - "h" "ah" "t" - 1
+"hotrod" - "hot" "rod" - "h" "ah" "t" , "r" "ah" "d" - 1
+"hotter" - "hot" "ter" - "h" "ah" "t" , "uh" "r" - 1
+"house" - "house" - "h" "ao" "s" - 1
+"hummed" - "hummed" - "h" "uh" "m" "d" - 1
+"humming" - "hum" "ming" - "h" "uh" "m" , "ih" "ng" - 1
+"humor" - "hu" "mor" - "h" "y" "uw" , "m" "uh" "r" - 1
+"hun" - "hun" - "h" "uh" "n" - 1
+"hunkiest" - "hunk" "i" "est" - "h" "uh" "n" "k" , "ee" , "eh" "s" "t" - 1
+"hurricane" - "hurr" "i" "cane" - "h" "uh" "r" , "ih" , "k" "ay" "n" - 1
+"hurt" - "hurt" - "h" "uh" "r" "t" - 1
+"Hyde" - "hyde" - "h" "ai" "d" - 1
+"I" - "i" - "ai" - 0
+"iambs" - "i" "ambs" - "ai" , "ae" "m" "b" "z" - 2
+"id" - "id" - "ih" "d" - 1
+"Ida" - "i" "da" - "ai" "d" , "uh" - 1
+"idea" - "i" "de" "a" - "ai" , "d" "ee" , "uh" - 2
+"ides" - "ides" - "ai" "d" "z" - 1
+"if" - "if" - "ih" "f" - 0
+"ill" - "ill" - "ih" "l" - 1
+"illegitimate" - "il" "leg" "it" "im" "ate" - "ih" "l" , "uh" , "j" "ih" "t" , "uh" , "m" "uh" "t" - 3
+"I¹m" - "I¹m" - "ai" "m" - 0
+"imperiled" - "im" "per" "iled" - "ih" "m" , "p" "ae" "r" , "ih" "l" "d" - 2
+"imprudent" - "im" "pru" "dent" - "ih" "m" , "p" "r" "uw" "d" , "uh" "n" "t" - 2
+"in" - "in" - "ih" "n" - 0
+"inhabits" - "in" "ha" "bits" - "ih" "n" , "h" "ae" "b" , "ih" "t" "z" - 2
+"inquired" - "in" "quired" - "ih" "n" , "k" "w" "ai" "r" "d" - 2
+"inside" - "in" "side" - "ih" "n" , "s" "ai" "d" - 2
+"insides" - "in" "sides" - "ih" "n" , "s" "ai" "d" "z" - 1
+"insisted - "in" "sis" "ted - "ih" "n" , "s" "ih" "s" , "t" "eh" "d" - 2
+"Minski" - "min" "ski" - "m" "ih" "n" , "s" "k" "ee" - 1
+"instead" - "in" "stead" - "ih" "n" , "s" "t" "eh" "d" - 2
+"interchange" - "in" "ter" "change" - "ih" "n" , "t" "uh" "r" , "ch" "ay" "n" "j" - 1
+"interred" - "in" "terred" - "ih" "n" , "t" "uh" "r" "d" - 2
+"interrupted" - "in" "ter" "rup" "ted" - "ih" "n" , "t" "uh" "r" , "uh" "p" , "t" "uh" "d" - 3
+"into" - "in" "to" - "ih" "n" , "t" "uw" - 2
+"inventor" - "in" "ven" "tor" - "ih" "n" , "v" "eh" "n" , "t" "uh" "r" - 2
+"Iran" - "I" "ran" - "ai" , "r" "ae" "n" - 2
+"Iraq" - "i" "raq" - "ai" , "r" "ae" "k" - 2
+"is" - "is" - "ih" "z" - 0
+"Ischia" - "Is" "chia" - "ih" , "sh" "uh" - 1
+"isn¹t" - "is" "n¹t" - "ih" , "z" "uh" "n" "t" - 1
+"Isoceles" - "I" "soc" "el" "es" - "ai" , "s" "ah" "s" , "uh" , "l" "ee" "z" - 2
+"it" - "it" - "ih" "t" - 0
+"its" - "its" - "ih" "t" "z" - 0
+"it¹s" - "it¹s" - "ih" "t" "z" - 0
+"I¹ve" - "I¹ve" - "ai" "v" - 0
+"Jack" - "Jack" - "j" "ae" "k" - 1
+"Jake" - "Jake" - "j" "ay" "k" - 1
+"Jake¹s" - "Jake¹s" - "j" "ay" "k" "z" - 1
+"Jane" - "Jane" - "j" "ay" "n" - 1
+"jigs" - "jigs" - "j" "ih" "g" "z" - 1
+"Jim" - "Jim" - "j" "ih" "m" - 1
+"job" - "job" - "j" "ah" "b" - 1
+"joined" - "joined" - "j" "oy" "n" "d" - 1
+"joke" - "joke" - "j" "oh" "k" - 1
+"jolly" - "jol" "ly" - "j" "ah" , "l" "ee" - 1
+"judge" - "judge" - "j" "uh" "j" - 1
+"jump" - "jump" - "j" "uh" "m" "p" - 1
+"junk" - "junk" - "j" "uh" "n" "k" - 1
+"just" - "just" - "j" "uh" "s" "t" - 0
+"Kathleen" - "Kath" "leen" - "k" "ae" "th" , "l" "ee" "n" - 2
+"keen" - "keen" - "k" "ee" "n" - 1
+"keep" - "keep" - "k" "ee" "p" - 1
+"keeps" - "keeps" - "k" "ee" "p" "z" - 1
+"Kent" - "kent" - "k" "eh" "n" "t" - 1
+"Kentucky" - "Ken" "tuc" "ky" - "k" "eh" "n" , "t" "uh" "k" , "ee" - 2
+"kept" - "kept" - "k" "eh" "p" "t" - 1
+"kettle" - "ket" "tle" - "k" "eh" "t" , "uh" "l" - 1
+"kid" - "kid" - "k" "ih" "d" - 1
+"killing" - "kil" "ling" - "k" "ih" "l" , "ih" "ng" - 1
+"kitten" - "kit" "ten" - "k" "ih" , "t" "uh" "n" - 1
+"kitty" - "kit" "ty" - "k" "ih" , "t" "ee" - 1
+"klutz" - "klutz" - "k" "l" "uh" "t" "z" - 1
+"knew" - "knew" - "n" "uw" - 1
+"knitting" - "knit" "ting" - "n" "ih" "t" , "ih" "ng" - 1
+"know" - "know" - "n" "oh" - 1 
+"known" - "known" - "n" "oh" "n" - 1
+"Kroll" - "Kroll" - "k" "r" "oh" "l" - 1 
+"lab" - "lab" - "l" "ae" "b" - 1
+"lady" - "la" "dy" - "l" "ay" , "d" "ee" - 1
+"laid" - "laid" - "l" "ay" "d" - 1
+"lamented" - "la" "men" "ted" - "l" "uh" , "m" "eh" "n" , "t" "uh" "d" - 2
+"laredo" - "lar" "e" "do" - "l" "uh" "r" , "ay" , "d" "oh" - 2
+"large" - "large" - "l" "ah" "r" "j" - 1
+"Lariat" - "Lar" "i" "at" - "l" "ae" "r" , "ee" , "uh" "t" - 1
+"larks" - "larks" - "l" "ah" "r" "k" "z" - 1
+"Larry" - "Lar" "ry" - "l" "ae" "r" , "ee" - 1
+"lasted" - "las" "ted" - "l" "ae" "s" , "t" "uh" "d" - 1
+"later" - "la" "ter" - "l" "ay" , "t" "uh" "r" - 1
+"Latin" - "La" "tin" - "l" "ae" , "t" "ih" "n" - 1
+"latitude" - "la" "tit" "ude" - "l" "ae" "t" , "ih" , "t" "uw" "d" - 1
+"latter" - "latter" - "l" "ae" , "t" "uh" "r" - 1
+"lead" - "lead" - "l" "ee" "d" - 1
+"leaped" - "leaped" - "l" "ee" "p" "d" - 1
+"leaps" - "leaps" - "l" "ee" "p" "s" - 1
+"lear" - "lear" - "l" "ee" "r" - 1
+"Lear" - "Lear" - "l" "ee" "r" - 1
+"lears" - "lears" - "l" "ee" "r" "z" - 1
+"leeds" - "leeds" - "l" "ee" "d" "z" - 1
+"left" - "left" - "l" "eh" "f" "t" - 1
+"leg" - "leg" - "l" "eh" "g" - 1
+"legal" - "le" "gal" - "l" "ee" , "g" "uh" "l" - 1
+"legs" - "legs" - "l" "eh" "g" "z" - 1
+"lest" - "lest" - "l" "eh" "s" "t" - 1
+"lets" - "lets" - "l" "eh" "t" "z" - 1
+"letters" - "let" "ters" - "l" "eh" , "t" "uh" "r" "z" - 1
+"lexicon" - "lex" "ic" "on" - "l" "eh" "k" "s" , "ih" , "k" "ah" "n" - 1
+"life" - "life" - "l" "ai" "f" - 1
+"light" - "light" - "l" "ai" "t" - 1
+"lighter" - "ligh" "ter" - "l" "ai" "t" , "uh" "r" - 1
+"like" - "like" - "l" "ai" "k" - 1
+"liked" - "liked" - "l" "ai" "k" "d" - 1
+"limerick" - "lim" "er" "ick" - "l" "ih" , "m" "uh" , "r" "ih" "k" - 1
+"Linc" - "Linc" - "l" "ih" "ng" "k" - 1
+"line" - "line" - "l" "ai" "n" - 1
+"lines" - "lines" - "l" "ai" "n" "z" - 1
+"little" - "lit" "tle" - "l" "ih" , "t" "uh" "l" - 1
+"lived" - "lived" - "l" "ih" "v" "d" - 1
+"lively" - "live" "ly" - "l" "ai" "v" , "l" "ee" - 1
+"liverwurst" - "liv" "er" "wurst" - "l" "ih" "v" , "uh" "r" , "w" "uh" "r" "s" "t" - 1
+"Lloyd" - "Lloyd" - "l" "oy" "d" - 1
+"lob" - "lob" - "l" "ah" "b" - 1
+"locally" - "loc" "al" "ly" - "l" "oh" , "k" "uh" , "l" "ee" - 1
+"located" - "lo" "ca" "ted" - "l" "oh" , "k" "ay" , "t" "eh" "d" - 1
+"locked" - "locked" - "l" "ah" "k" "t" - 1
+"long" - "long" - "l" "au" "ng" - 1
+"looked" - "looked" - "l" "oo" "k" "t" - 1
+"looney" - "loo" "ney" - "l" "uw" "n" , "ee" - 1
+"loops" - "loops" - "l" "uw" "p" "z" - 1
+"lord" - "lord" - "l" "au" "r" "d" - 1
+"loud" - "loud" - "l" "ao" "d" - 1
+"love" - "love" - "l" "uh" "v" - 1
+"loved" - "loved" - "l" "uh" "v" "d" - 1
+"lover" - "lo" "ver" - "l" "uh" , "v" "uh" "r" - 1
+"lucky" - "luc" "ky" - "l" "uh" "k" , "ee" - 1
+"lugubrious" - "lu" "gu" "bri" "ous" - "l" "uh" , "g" "uw" "b" , "r" "ee" , "uh" "s" - 2
+"lumpy" - "lum" "py" - "l" "uh" "m" , "p" "ee" - 1
+"made" - "made" - "m" "ay" "d" - 1
+"Madras" - "Ma" "dras" - "m" "ah" "j" , "r" "uh" "s" - 1
+"magnificent" - "mag" "nif" "i" "cent" - "m" "ae" "g" , "n" "ih" "f" , "ih" , "s" "eh" "n" "t" - 2
+"magnum" - "mag" "num" - "m" "ae" "g" , "n" "uh" "m" - 1
+"maid" - "maid" - "m" "ay" "d" - 1
+"maiden" - "maid" "en" - "m" "ay" , "d" "eh" "n" - 1
+"maiming" - "maim" "ing" - "m" "ay" , "m" "ih" "ng" - 1
+"mainly" - "main" "ly" - "m" "ay" "n" , "l" "ee" - 1
+"Majorca" - "Ma" "jor" "ca" - "m" "uh" , "j" "au" "r" , "k" "uh" - 2
+"make" - "make" - "m" "ay" "k" - 1
+"mall" - "mall" - "m" "au" "l" - 1
+"man" - "man" - "m" "ae" "n" - 1
+"Manhasset" - "Man" "has" "set" - "m" "ae" "n" , "h" "ae" "s" , "ih" "t" - 2
+"manifest" - "man" "i" "fest" - "m" "ae" "n" , "ih" , "f" "eh" "s" "t" - 3
+"manners" - "man" "ners" - "m" "ae" "n" , "uh" "r" "z" - 1
+"mantissa" - "man" "tis" "sa" - "m" "ae" "n" , "t" "ih" "s" , "uh" - 2
+"many" - "many" - "m" "eh" , "n" "ee" - 1
+"mapmakers" - "map" "mak" "ers" - "m" "ae" "p" , "m" "ay" "k" , "uh" "r" "z" - 1
+"march" - "march" - "m" "ah" "r" "ch" - 1
+"Marge" - "Marge" - "m" "ah" "r" "j" - 1
+"marked" - "marked" - "m" "ah" "r" "k" "t" - 1
+"married" - "mar" "ried" - "m" "ae" "r" , "ee" "d" - 1
+"Marty" - "Mar" "ty" - "m" "ah" "r" , "d" "ee" - 1
+"marvel" - "mar" "vel" - "m" "ah" "r" , "v" "eh" "l" - 1
+"masquerade" - "mas" "quer" "ade" - "m" "ae" "s" , "k" "eh" "r" , "ay" "d" - 3
+"master" - "mas" "ter" - "m" "ae" "s" , "t" "uh" "r" - 1
+"mat" - "mat" - "m" "ae" "t" - 1
+"mate" - "mate" - "m" "ay" "t" - 1
+"mathematician" - "math" "em" "a" "tic" "ian" - "m" "ae" "th" , "uh" , "m" "uh" , "t" "ih" "sh" , "uh" "n" - 4 
+"me" - "me" - "m" "ee" - 1
+"mean" - "mean" - "m" "ee" "n" - 1
+"measure" - "meas" "ure" - "m" "eh" , "zh" "uh" "r" - 1
+"meat" - "meat" - "m" "ee" "t" - 1
+"Mel" - "Mel" - "m" "eh" "l" - 1
+"Melbourne" - "Mel" "bourne" - "m" "eh" "l" , "b" "au" "r" "n" - 1
+"Melissa" - "Mel" "iss" "a" - "m" "uh" , "l" "ih" "s" , "uh" - 2
+"melody" - "mel" "ody" - "m" "eh" "l" , "uh" , "d" "ee" - 1
+"melted" - "mel" "ted" - "m" "eh" "l" , "t" "uh" "d" - 1
+"men" - "men" - "m" "eh" "n" - 1
+"Mercator" - "Mer" "ca" "tor" - "m" "uh" "r" , "k" "ay" , "t" "uh" "r" - 2
+"met" - "met" - "m" "eh" "t" - 1
+"mice" - "mice" - "m" "ai" "s" - 1
+"miced" - "miced" - "m" "ai" "s" "t" - 1
+"middle school" - "midd" "le" "school" - "m" "ih" , "d" "uh" "l" , "s" "k" "uw" "l" - 1
+"might" - "might" - "m" "ai" "t" - 1
+"mignon" - "mig" "non" - "m" "ih" "n" , "y" "uh" "n" - 1
+"miles" - "miles" - "m" "ai" "l" "z" - 1
+"mind" - "mind" - "m" "ai" "n" "d" - 1
+"mistake" - "mis" "take" - "m" "ih" , "s" "t" "ay" "k" - 1
+"moat" - "moat" - "m" "oh" "t" - 1
+"models" - "mod" "els" - "m" "ah" "d" , "uh" "l" "z" - 1
+"molten" - "mol" "ten" - "m" "oh" "l" , "t" "uh" "n" - 1
+"moment" - "mo" "ment" - "m" "oh" , "m" "eh" "n" "t" - 1
+"money" - "mon" "ey" - "m" "uh" "n" , "ee" - 1
+"moon" - "moon" - "m" "uw" "n" - 1
+"more" - "more" - "m" "au" "r" - 1
+"morning" - "mor" "ning" - "m" "au" "r" , "n" "ih" "ng" - 1
+"mortar" - "mor" "tar" - "m" "au" "r" , "t" "uh" "r" - 1
+"Mose" - "Mose" - "m" "oh" "z" - 1
+"most" - "most" - "m" "oh" "s" "t" - 1
+"Mountbatten" - "mount" "bat" "ten" - "m" "ao" "n" "t" , "b" "ae" "t" , "uh" "n" - 2
+"moved" - "moved" - "m" "uw" "v" "d" - 1
+"mower" - "mow" "er" - "m" "oh" , "uh" "r" - 1
+"Mrs." - "Mr" "s." - "m" "ih" , "s" "uh" "s" - 1
+"mrs" - "mul" "ti" "ply" - "m" "uh" "l" , "t" "ih" , "p" "l" "ai" - 1
+"must" - "must" - "m" "uh" "s" "t" - 0
+"my" - "my" - "m" "ai" - 0
+"mystic" - "mys" "tic" - "m" "ih" "s" , "t" "ih" "k" - 1
+"name" - "name" - "n" "ay" "m" - 1
+"named" - "named" - "n" "ay" "m" "d" - 0
+"nan" - "nan" - "n" "ae" "n" - 1
+"Nantucket" - "Nan" "tuc" "ket" - "n" "ae" "n" , "t" "uh" "k" , "uh" "t" - 2
+"naples" - "na" "ples" - "n" "ay" , "p" "uh" "l" "z" - 1
+"near" - "near" - "n" "ee" "r" - 0
+"needed" - "need" "ed" - "n" "ee" "d" , "uh" "d" - 1
+"neighbors" - "neigh" "bors" - "n" "ay" , "b" "uh" "r" "z" - 1
+"nerd" - "nerd" - "n" "uh" "r" "d" - 1
+"nerds" - "nerds" - "n" "uh" "r" "d" "z" - 1
+"neroise" - "ner" "oise" - "n" "uh" , "r" "oy" "z" - 2
+"Nertskinski" - "Nerts" "kin" "ski" - "n" "uh" "r" "t" , "s" "k" "ih" "n" , "s" "k" "ee" - 2
+"nests" - "nests" - "n" "eh" "s" "t" "z" - 1
+"net" - "net" - "n" "eh" "t" - 1
+"never" - "ne" "ver" - "n" "eh" , "v" "uh" "r" - 1
+"new" - "new" - "n" "uw" - 1
+"newspaper" - "news" "pa" "per" - "n" "uw" "z" , "p" "ay" , "p" "uh" "r" - 1
+"New York" - "New" "York" - "n" "uw" , "y" "au" "r" "k" - 2 
+"Niger" - "Ni" "ger" - "n" "ai" , "j" "uh" "r" - 1
+"night" - "night" - "n" "ai" "t" - 1
+"no" - "no" - "n" "oh" - 0
+"nose" - "nose" - "n" "oh" "z" - 1
+"not" - "not" - "n" "ah" "t" - 0
+"note" - "note" - "n" "oh" "t" - 1
+"nothing" - "no" "thing" - "n" "uh" , "th" "ih" "ng" - 1
+"notion" - "no" "tion" - "n" "oh" , "sh" "uh" "n" - 1
+"nutty" - "nut" "ty" - "n" "uh" , "d" "ee" - 1
+"obscene" - "ob" "scene" - "uh" "b" , "s" "ee" "n" - 2
+"obsessed" - "ob" "sessed" - "uh" "b" , "s" "eh" "s" "d" - 2
+"obvious" - "ob" "vi" "ous" - "ah" "b" , "v" "ee" , "uh" "s" - 1
+"octogenarian" - "oct" "oh" "gen" "ar" "i" "an" - "ah" "k" , "t" "uh" , "j" "eh" , "n" "ae" "r" , "ee" , "uh" "n" - 4
+"odd" - "odd" - "ah" "d" - 1
+"of" - "of" - "uh" "v" - 0
+"off" - "off" - "au" "f" - 1
+"often" - "of" "ten" - "au" , "f" "eh" "n" - 1
+"old" - "old" - "oh" "l" "d" - 1
+"on" - "on" - "ah" "n" - 0
+"once" - "once" - "w" "uh" "n" "s" - 1
+"one" - "one" - "w" "uh" "n" - 0
+"ones" - "ones" - "w" "uh" "n" "z" - 1
+"only" - "on" "ly" - "oh" "n" , "l" "ee" - 1
+"Oporta" - "O" "porta" - "oh" , "p" "au" "r" , "t" "uh" - 2
+"optimistic" - "op" "tim" "is" "tic" - "ah" "p" , "t" "uh" , "m" "ih" "s" , "t" "ih" "k" - 3
+"opus" - "o" "pus" - "oh" , "p" "uh" "s" - 1
+"or" - "or" - "au" "r" - 0
+"ordinate" - "or" "din" "ate" - "au" "r" , "d" "ih" , "n" "uh" "t" - 1
+"Osiris" - "O" "si" "ris" - "oh" , "s" "ai" , "r" "uh" "s" - 2
+"other" - "other" - "uh" , "thh" "uh" "r" - 1
+"our" - "our" - "ao" "r" - 0
+"out" - "out" - "ao" "t" - 1
+"over" - "over" - "oh" , "v" "uh" "r" - 1
+"overly" - "over "ly" - "oh" , "v" "uh" "r" , "l" "ee" - 1
+"overtake" - "o" "ver" "take" - "oh" , "v" "uh" "r" , "t" "ay" "k" - 3
+"overtook" - "o" "ver" "took" - "oh" , "v" "uh" "r" , "t" "oo" "k" - 3
+"owls" - "owls" - "ao" "l" "z" - 1
+"own" - "own" - "oh" "n" - 1
+"pa" - "pa" - "p" "ah" - 1
+"packets" - "pac" "kets" - "p" "ae" , "k" "uh" "t" "z" - 1 
+"page" - "page" - "p" "ay" "j" - 1
+"pail" - "pail" - "p" "ay" "l" - 1
+"pain" - "pain" - "p" "ay" "n" - 1
+"painfull" - "pain" "full" - "p" "ay" "n" , "f" "uh" "l" - 1
+"painted" - "pain" "ted" - "p" "ay" "n" , "t" "uh" "d" - 1
+"pair" - "pair" - "p" "ae" "r" - 1
+"Pandora" - "Pan" "dor" "a" - "p" "ae" "n" , "d" "au" "r" , "uh" - 2
+"pants" - "pants" - "p" "ae" "n" "t" "z" - 1
+"papyrus" - "pa" "py" "rus" - "p" "uh" "p" , "ai" , "r" "uh" "s" - 2
+"paraphrasing" - "par" "a" "phra" "sing" - "p" "ae" "r" , "uh" , "f" "r" "ay" "z" , "ih" "ng" - 1
+"Pard" - "pard" - "p" "ah" "r" "d" - 1
+"pardon" - "par" "don" - "p" "ah" "r" , "d" "uh" "n" - 1
+"park" - "park" - "p" "ah" "r" "k" - 1
+"Parker" - "Par" "ker" - "p" "ah" "r" "k" - 1
+"parts" - "parts" - "p" "ah" "r" "t" "z" - 1
+"party" - "par" "ty" - "p" "ah" "r" , "t" "ee" - 1
+"pass" - "pass" - "p" "ae" "s" - 1
+"passed" - "passed" - "p" "ae" "s" "t" - 1 
+"Pat" - "Pat" - "p" "ae" "t" - 1
+"pat" - "pat" - "p" "ae" "t" - 1
+"path" - "path" - "p" "ae" "th" - 1
+"pawtucket" - "paw" "tuck" "et" - "p" "au" , "t" "uh" "k" , "uh" "t" - 2
+"pears" - "pears" - "p" "ee" "r" "z" - 1
+"pedal" - "pe" "dal" - "p" "eh" , "d" "uh" "l" - 1
+"pegs" - "pegs" - "p" "eh" "g" "z" - 1
+"people" - "peo" "ple" - "p" "ee" , "p" "uh" "l" - 1
+"perfectly" - "per" "fect" "ly" - "p" "uh" "r" , "f" "eh" "k" "t" , "l" "ee" - 1
+"performer" - "per" "for" mer" - "p" "uh" "r" , "f" "au" "r" , "m" "uh" "r" - 2
+"perhaps" - "per" "haps" - "p" "uh" "r" , "h" "ae" "p" "z" - 2
+"person" - "per" "son" - "p" "uh" "r" , "s" "uh" "n" - 1
+"peru" - "pe" "ru" - "p" "uh" "r" , "uw" - 2
+"phone" - "phone" - "f" "oh" "n" - 1
+"phony" - "pho" "ny" - "f" "oh" , "n" "ee" - 1
+"pin" - "pin" - "p" "ih" "n" - 1
+"pink" - "pink" - "p" "ih" "n" "k" - 1
+"pirate" - "pi" "rate" - "p" "ai" , "r" "uh" "t" - 1
+"pity" - "pi" "ty" - "p" "ih" "t" , "ee" - 1
+"plain" - "plain" - "p" "l" "ay" "n" - 1
+"plan" - "plan" - "p" "l" "ae" "n" - 1
+"play" - "play" - "p" "l" "ay" - 1
+"playing" - "play" "ing" - "p" "l" "ay" , "ih" "ng" - 1
+"plenty" - "plen" "ty" - "p" "l" "eh" "n" , "t" "ee" - 1
+"plus" - "plus" - "p" "l" "uh" "s" - 0
+"porkers" - "por" "kers" - "p" "au" "r" , "k" "uh" "r" "z" - 1
+"potato" - "po" "ta" "to" - "p" "uh" "t" , "ay" , "t" "oh" - 2
+"potion" - "po" "tion" - "p" "oh" , "sh" "uh" "n" - 1
+"poupon" - "pou" "pon" - "p" "uw" , "p" "ah" "n" - 2
+"practical" - "prac" "ti" "cal" - "p" "r" "ae" "k" , "t" "ih" , "k" "uh" "l" - 1
+"practicing" - "prac" "tic" "ing" - "p" "r" "ae" "k" , "t" "ih" , "s" "ih" "ng" - 1
+"presidents" - "pre" "sid" "ents" - "p" "r" "eh" , "z" "ih" , "d" "eh" "n" "t" "z" - 1
+"pretty" - "pret" "ty" - "p" "r" "ih" , "t" "ee" - 1
+"pricked" - "pricked" - "p" "r" "ih" "k" "t" - 1
+"prime" - "prime" - "p" "r" "ai" "m" - 1
+"principal" - "prin" "cip" "al" - "p" "r" "ih" "n" , "s" "ih" , "p" "uh" "l" - 1
+"program" - "pro" "gram" - "p" "r" "oh" , "g" "r" "ae" "m" - 1
+"programmer" - "pro" "gramm" "er" - "p" "r" "oh" , "g" "r" "ae" "m" , "uh" "r" - 1
+"probably" - "prob" "ab" "ly" - "p" "r" "ah" , "b" "uh" "b" , "l" "ee" - 1
+"prodigy" - "pro" "di" "gy" - "p" "r" "ah" "d" , "ih" , "j" "ee" - 1
+"profane" - "pro" "fane" - "p" "r" "oh" , "f" "ay" "n" - 2
+"professor" - "pro" "fes" "sor" - "p" "r" "uh" "f" , "eh" , "s" "uh" "r" - 2
+"promise" - "pro" "mise" - "p" "r" "ah" "m" , "ih" "s" - 1
+"psyches" - "psy" "ches" - "s" "ai" "k" , "ee" "z" - 1
+"psychic" - "psy" "chic" - "s" "ai" "k" , "ih" "k" - 1
+"punctures" - "pun" "ctures" - "p" "uh" "n" "k" , "ch" "uh" "r" "z" - 1
+"purchased" - "pur" "chased" - "p" "uh" "r" , "ch" "uh" "s" "t" - 1
+"purpose" - "pur" "pose" - "p" "uh" "r" , "p" "uh" "s" - 1
+"pyromaniacal" - "py" "ro" "man" "i" "a" "cal" - "p" "ai" "r" , "oh" , "m" "ah" "n" , "ai" , "uh" , "k" "uh" "l" - 4
+"queer" - "queer" - "k" "w" "ee" "r" - 1
+"quite" - "quite" - "k" "w" "ai" "t" - 0
+"racer" - "ra" "cer" - "r" "ay" , "s" "eh" "r" - 1
+"radical" - "rad" "i" "cal" - "r" "ae" "d" , "ih" , "k" "uh" "l" - 1
+"rain" - "rain" - "r" "ay" "n" - 1
+"raise" - "raise" - "r" "ay" "z" - 1
+"ran" - "ran" - "r" "ae" "n" - 1
+"rank" - "rank" - "r" "ae" "n" "k" - 1
+"rated" - "ra" "ted" - "r" "ay" , "t" "uh" "d" - 1
+"rather" - "ra" "ther" - "r" "ae" , "thh" "uh" "r" - 1
+"ray" - "ray" - "r" "ay" - 1
+"real" - "real" - "r" "ee" "l" - 1
+"really" - "real" "ly" - "r" "ee" , "l" "ee" - 1
+"reason" - "reas" "on" - "r" "ee" , "z" "uh" "n" - 1
+"red" - "red" - "r" "eh" "d" - 1
+"regal" - "re" "gal" - "r" "ee" , "g" "uh" "l" - 1
+"regret" - "re" "gret" - "r" "ee" , "g" "r" "eh" "t" - 2
+"remarkable" - "re" "mark" "able" - "r" "ee" , "m" "ah" "r" "k" , "uh" , "b" "uh" "l" - 2
+"remarked" - "re" "marked" - "r" "ee" , "m" "ah" "r" "k" "t" - 2
+"remind" - "re" "mind" - "r" "ee" , "m" "ai" "n" "d" - 2
+"reminders" - "re" "mind" "ers" - "r" "ee" , "m" "ai" "n" , "d" "uh" "r" "z" - 2
+"repelled" - "re" "pelled" - "r" "ee" , "p" "eh" "l" "d" - 2
+"replied" - "re" "plied" - "r" "ee" , "p" "l" "ai" "d" - 2
+"republican" - "re" "pub" "li" "can" - "r" "ee" , "p" "uh" "b" , "l" "ih" , "k" "uh" "n" - 2
+"research" - "re" "search" - "r" "ee" , "s" "uh" "r" "ch" - 1
+"reside" - "re" "side" - "r" "ee" , "z" "ai" "d" - 2
+"resisted" - "re" "sis" "ted" - "r" "ee" , "z" "ih" "s" , "t" "uh" "d" - 2
+"retired" - "re" "tired" - "r" "ee" , "t" "ai" "r" "d" - 2
+"returned" - "re" "turned" - "r" "ee" , "t" "uh" "r" "n" "d" - 2
+"revealed" - "re" "vealed" - "r" "ee" , "v" "ee" "l" "d" - 2
+"rhyme" - "rhyme" - "r" "ai" "m" - 1
+"rhythm" - "rhy" "thm" - "r" "ih" , "thh" "uh" "m" - 1
+"ricochet" - "ri" "co" "chet" - "r" "ih" "k" , "uh" , "sh" "ay" - 1
+"ride" - "ride" - "r" "ai" "d" - 1
+"right" - "right" - "r" "ai" "t" - 1
+"roar" - "roar" - "r" "au" "r" - 1
+"roared" - "roared" - "r" "au" "r" "d" - 1
+"robot" - "ro" "bot" - "r" "oh" , "b" "ah" "t" - 1
+"rocketed" - "rock" "et" "ed" - "r" "ah" , "k" "uh" "t" , "eh" "d" - 1
+"rod" - "rod" - "r" "ah" "d" - 1
+"rode" - "rode" - "r" "oh" "d" - 1
+"role" - "role" - "r" "oh" "l" - 1
+"roll" - "roll" - "r" "oh" "l" - 1
+"rolled" - "rolled" - "r" "oh" "l" "d" - 1
+"rose" - "rose" - "r" "oh" "z" - 1
+"round" - "round" - "r" "ao" "n" "d" - 1
+"rounded" - "round" "ed" - "r" "ao" "n" "d" , "uh" "d" - 1
+"rubber" - "rub" "ber" - "r" "uh" , "b" "uh" "r" - 1
+"rule" - "rule" - "r" "uw" "l" - 1
+"sack" - "sack" - "s" "ae" "k" - 1
+"sad" - "sad" - "s" "ae" "d" - 1
+"said" - "said" - "s" "eh" "d" - 1
+"sailed" - "sailed" - "s" "ay" "l" "d" - 1
+"sank" - "sank" - "s" "ae" "n" "k" - 1
+"sat" - "sat" - "s" "ae" "t" - 1
+"Satan" - "Sa" "tan" - "s" "ay" , "t" "eh" "n" - 1
+"saw" - "saw" - "s" "au" - 1
+"say" - "say" - "s" "ay" - 1
+"scan" - "scan" - "s" "k" "ae" "n" - 1
+"scars" - "scars" - "s" "k" "ah" "r" "z" - 1
+"scroobious" - "scroo" "bi" "ous" - "s" "k" "r" "uw" "b" , "ee" , "uh" "s" - 1
+"seaport" - "sea" "port" - "s" "ee" , "p" "au" "r" "t" - 1
+"secret" - "sec" "ret" - "s" "ee" "k" , "r" "eh" "t" - 1
+"section" - "sec" "tion" - "s" "eh" "k" , "sh" "uh" "n" - 2
+"seeds" - "seeds" - "s" "ee" "d" "z" - 1
+"seems" - "seems" - "s" "ee" "m" "z" - 1
+"seen" - "seen" - "s" "ee" "n" - 1
+"seldom" - "seldom" - "s" "eh" "l" , "d" "uh" "m" - 1
+"serengeti" - "ser" "en" "ge" "ti" - "s" "ae" "r" , "uh" "n" , "g" "eh" "t" , "ee" - 3
+"seven" - "sev" "en" - "s" "eh" , "v" "uh" "n" - 1 
+"seventy" - "sev" "en" "ty" - "s" "eh" , "v" "uh" "n" , "t" "ee" - 1
+"sewer" - "sew" "er" - "s" "uw" , "uh" "r" - 1
+"shade" - "shade" - "sh" "ay" "d" - 1
+"shaking" - "sha" "king" - "sh" "ay" , "k" "ih" "ng" - 1
+"sharp" - "sharp" - "sh" "ah" "r" "p" - 1
+"she" - "she" - "sh" "ee" - 0
+"shed" - "shed" - "sh" "eh" "d" - 1
+"shes" - "shes" - "sh" "ee" "z" - 0
+"shoe" - "shoe" - "sh" "uw" - 1
+"shorter" - "short" "er" - "sh" "au" "r" , "t" "uh" "r" - 1
+"should" - "should" - "sh" "oo" "d" - 0
+"shouldn¹t" - "should" "n¹t" - "sh" "oo" "d" , "uh" "n" "t" - 1
+"shout" - "shout" - "sh" "ao" "t" - 1
+"shouted" - "shou" "ted" - "sh" "ao" "t" , "uh" "d" - 1
+"sick" - "sick" - "s" "ih" "k" - 1
+"Sid" - "Sid" - "s" "ih" "d" - 1
+"side" - "side" - "s" "ai" "d" - 1
+"sigh" - "sigh" - "s" "ai" - 1
+"silly" - "sil" "ly" - "s" "ih" , "l" "ee" - 1
+"simple" - "sim" "ple" - "s" "ih" "m" , "p" "uh" "l" - 1
+"since" - "since" - "s" "ih" "n" "s" - 0
+"sit" - "sit" - "s" "ih" "t" - 1
+"sitting" - "sit" "ting" - "s" "ih" "t" , "ih" "ng" - 1
+"six" - "six" - "s" "ih" "k" "z" - 0
+"size" - "size" - "s" "ai" "z" - 1
+"skin" - "skin" - "s" "k" "ih" "n" - 1
+"Slater" - "sla" "ter" - "s" "l" "ay" , "t" "uh" "r" - 1
+"sleek" - "sleek" - "s" "l" "ee" "k" - 1
+"sleepy" - "slee" "py" - "s" "l" "ee" , "p" "ee" - 1
+"slightest" - "sligh" "test" - "s" "l" "ai" , "t" "eh" "s" "t" - 1
+"sloan" - "sloan" - "s" "l" "oh" "n" - 1
+"slobbery" - "slob" "ber" "y" - "s" "l" "ah" , "b" "uh" "r" , "ee" - 1
+"small" - "small" - "s" "m" "au" "l" - 0
+"smarty" - "smar" "ty" - "s" "m" "ah" "r" , "t" "ee" - 1
+"smashed" - "smashed" - "s" "m" "ae" "sh" "t" - 1
+"smelled" - "smelled" - "s" "m" "eh" "l" "l" "d" - 1
+"smile" - "smile" - "s" "m" "ai" "l" - 1
+"smiled" - "smiled" - "s" "m" "ai" "l" "d" - 1
+"smoking" - "smo" "king" - "s" "m" "oh" , "k" "ih" "ng" - 1
+"snafu" - "sna" "fu" - "s" "n" "ae" , "f" "uw" - 2
+"snow" - "snow" - "s" "n" "oh" - 1
+"snowman" - "snow" "man" - "s" "n" "oh" , "m" "ae" "n" - 1
+"snowwomen" - "snow" "wo" "men" - "s" "n" "oh" , "w" "ih" "m" , "uh" "n" - 1
+"so" - "so" - "s" "oh" - 0
+"some" - "some" - "s" "uh" "m" - 0
+"son" - "son" - "s" "uh" "n" - 1
+"soon" - "soon" - "s" "uw" "n" - 1
+"sound" - "sound" - "s" "ao" "n" "d" - 1
+"source" - "source" - "s" "au" "r" "s" - 1
+"spain" - "spain" - "s" "p" "ay" "n" - 1
+"speedometer" - "speed" "o" "me" "ter" - "s" "p" "ee" "d" , "ah" , "m" "uh" , "t" "uh" "r" - 2
+"spelled" - "spelled" - "s" "p" "eh" "l" "d" - 1
+"spied" - "spied" - "s" "p" "ai" "d" - 1
+"spin" - "spin" - "s" "p" "ay" "n" - 1
+"splash" - "splash" - "s" "p" "l" "ae" "sh" - 1
+"spoke" - "spoke" - "s" "p" "oh" "k" - 1
+"spoon" - "spoon" - "s" "p" "uw" "n" - 1
+"sporting" - "sport" "ing" - "s" "p" "au" "r" "t" - 1
+"spry" - "spry" - "s" "p" "r" "ai" - 1
+"square" - "square" - "s" "k" "w" "ae" "r" - 1
+"squeak" - "squeak" - "s" "k" "w" "ee" "k" - 1
+"squirrel" - "squirrel" - "s" "k" "w" "ih" "r" "l" - 1
+"saint" - "saint" - "s" "ai" "n" "t" - 1 
+"stairs" - "stairs" - "s" "t" "ae" "r" "z" - 1
+"stammered" - "stam" "mered" - "s" "t" "ae" "m" , "uh" "r" "d" - 1
+"stand" - "stand" - "s" "t" "ae" "n" "d" - 1
+"start" - "start" - "s" "t" "ah" "r" "t" - 1
+"started" - "star" "ted" - "s" "t" "ah" "r" , "t" "uh" "d" - 1
+"stench" - "stench" - "s" "t" "eh" "n" "ch" - 1
+"stiles" - "stiles" - "s" "t" "ai" "l" "z" - 1
+"still" - "still" - "s" "t" "ih" "l" - 1
+"stink" - "stink" - "s" "t" "ih" "n" "k" - 1
+"stole" - "stole" - "s" "t" "oh" "l" - 1
+"stomped" - "stomped" - "s" "t" "ah" "m" "p" "d" - 1
+"stood" - "stood" - "s" "t" "oo" "d" - 1
+"stoops" - "stoops" - "s" "t" "uw" "p" "z" - 1
+"stout" - "stout" - "s" "t" "ao" "t" - 1
+"straighter" - "straight" "er" - "s" "ch" "r" "ay" , "t" "uh" "r" - 1
+"strange" - "strange" - "s" "ch" "r" "ay" "n" "j" - 1
+"streets" - "streets" - "s" "ch" "r" "ee" "t" "z" - 1
+"stubborn" - "stub" "born" - "s" "t" "uh" , "b" "uh" "r" "n" - 1
+"studebake" - "stud" "e" "bake" - "s" "t" "uw" "d" , "uh" , "b" "ay" "k" - 1
+"student" - "stu" "dent" - "s" "t" "uw" , "d" "eh" "n" "t" - 1
+"summer" - "sum" "mer" - "s" "uh" "m" , "uh" "r" - 1
+"supplying" - "sup" "ply" "ing" - "s" "uh" , "p" "l" "ai" , "ih" "ng" - 2
+"supported" - "sup" "ported" - "s" "uh" , "p" "au" "r" , "t" "uh" "d" - 2
+"suppose" - "sup" "pose" - "s" "uh" , "p" "oh" "z" - 2
+"sure" - "sure" - "sh" "uw" "r" - 1
+"swarm" - "swarm" - "s" "w" "ah" "r" "m" - 1
+"sweaty" - "swea" "ty" - "s" "w" "eh" , "t" "ee" - 1
+"swell" - "swell" - "s" "w" "eh" "l" - 1
+"swerve" - "swerve" - "s" "w" "uh" "r" "v" - 1
+"swim" - "swim" - "s" "w" "ih" "m" - 1
+"swimming" - "swim" "ming" - "s" "w" "ih" "m" , "ih" "ng" - 1
+"swine" - "swine" - "s" "w" "ai" "n" - 1
+"swore" - "swore" - "s" "w" "au" "r" - 1
+"tail" - "tail" - "t" "ay" "l" - 1
+"tart" - "tart" - "t" "ah" "r" "t" - 1
+"taste" - "taste" - "t" "ay" "s" "t" - 1
+"teach" - "teach" - "t" "ee" "ch" - 1
+"teaser" - "teas" "er" - "t" "ee" "z" , "uh" "r" - 1
+"technician" - "tech" "nic" "ian" - "t" "eh" "k" , "n" "ih" , "sh" "uh" "n" - 2
+"tee" - "tee" - "t" "ee" - 1
+"temper" - "tem" "per" - "t" "eh" "m" , "p" "uh" "r" - 1
+"tenor" - "ten" "or" - "t" "eh" "n" , "uh" "r" - 1
+"terrific" - "ter" "rif" "ic" - "t" "uh" "r" , "ih" , "f" "ih" "k" - 2
+"test" - "test" - "t" "eh" "s" "t" - 1
+"Texan" - "Tex" "an" - "t" "eh" "k" , "s" "uh" "n" - 1
+"than" - "than" - "thh" "ae" "n" - 0
+"that" - "that" - "thh" "ae" "t" - 1
+"that¹s" - "that¹s" - "thh" "ae" "t" "z" - 0
+"the" - "the" - "thh" "uh" - 0
+"their" - "their" - "thh" "ae" "r" - 0
+"them" - "them" - "thh" "eh" "m" - 1
+"then" - "then" - "thh" "eh" "n" - 1
+"there" - "there" - "thh" "ae" "r" - 0
+"these" - "these" - "thh" "ee" "z" - 0
+"they" - "they" - "thh" "ay" - 0
+"they¹d" - "they¹d" - "thh" "ay" "d" - 0
+"they¹re" - "they¹re" - "thh" "ay" "r" - 0
+"they¹ve" - "they¹ve" - "thh" "ae" "v" - 0
+"think" - "think" - "th" "ih" "ng" "k" - 1
+"thinks" - "thinks" - "th" "ih" "ng" "k" "s" - 1
+"this" - "this" - "thh" "ih" "s" - 0
+"though" - "though" - "thh" "oh" - 0
+"thought" - "thought" - "th" "au" "t" - 1
+"thousands" - "thou" "sands" - "th" "ao" "z" , "uh" "n" "d" "z" - 1
+"three" - "three" - "th" "r" "ee" - 1
+"throat" - "throat" - "th" "r" "oh" "t" - 1
+"through" - "through" - "th" "r" "uw" - 0
+"throw" - "throw" - "th" "r" "oh" - 1
+"thump" - "thump" - "th" "uh" "m" "p" - 1
+"tibet" - "ti" "bet" - "t" "ih" , "b" "eh" "t" - 2
+"tiger" - "ti" "ger" - "t" "ai" "g" , "uh" "r" - 1
+"til" - "til" - "t" "ih" "l" - 1
+"till" - "till" - "t" "ih" "l" - 1
+"time" - "time" - "t" "ai" "m" - 1
+"tinder" - "tin" "der" - "t" "ih" "n" , "d" "uh" "r" - 1
+"tiny" - "ti" "ny" - "t" "ai" "n" , "ee" - 1
+"to" - "to" - "t" "uw" - 1
+"toes" - "toes" - "t" "oh" "z" - 1
+"told" - "told" - "t" "oh" "l" "d" - 1
+"too" - "too" - "t" "uw" - 1
+"took" - "took" - "t" "oo" "k" - 1
+"torching" - "torch" "ing" - "t" "au" "r" , "ch" "ih" "ng" - 1
+"towels" - "towels" - "t" "ao" "l" "z" - 1
+"town" - "town" - "t" "ao" "n" - 1
+"toys" - "toys" - "t" "oy" "z" - 1
+"train" - "train" - "ch" "r" "ay" "n" - 1
+"translated" - "trans" "la" "ted" - "ch" "r" "ae" "n" "z" , "l" "ay" "t" , "uh" "d" - 1
+"try" - "try" - "ch" "r" "ai" - 1
+"tried" - "tried" - "ch" "r" "ai" "d" - 1
+"trouble" - "trou" "ble" - "ch" "r" "uh" "b" , "uh" "l" - 1
+"truck" - "truck" - "ch" "r" "uh" "k" - 1
+"true" - "true" - "ch" "r" "uw" - 1
+"tub" - "tub" - "t" "uh" "b" - 1
+"tune" - "tune" - "t" "uw" "n" - 1
+"tv" - "t" "v" - "t" "ee" , "v" "ee" - 2
+"twenty" - "twen" "ty" - "t" "w" "eh" "n" , "t" "ee" - 1
+"twenty foot" - "twen" "ty" "foot" - "t" "w" "eh" "n" , "t" "ee" , "f" "oo" "t" - 1
+"twenty pound" - "twen" "ty" "pound" - "t" "w" "eh" "n" , "t" "ee" , "p" "ao" "n" "d" - 1
+"twirled" - "twirled" - "t" "w" "ih" "r" "l" "d" - 1
+"two" - "two" - "t" "uw" - 1
+"underdone" - "un" "der" "done" - "uh" "n" , "d" "uh" "r" , "d" "uh" "n" - 3
+"underground" - "un" "der" "ground" - "uh" "n" , "d" "uh" "r" , "g" "r" "ao" "n" "d" - 3
+"undertake" - "un" "der" "take" - "uh" "n" , "d" "uh" "r" , "t" "ay" "k" - 3
+"undertook" - "un" "der" "took" - "uh" "n" , "d" "uh" "r" , "t" "oo" "k" - 3
+"undoubtedly" - "un" "doubt" "ed" "ly" - "uh" "n" , "d" "ao" "t" , "eh" "d" , "l" "ee" - 2
+"unpleasant" - "un" "pleas" "ant" - "uh" "n" , "p" "l" "eh" "z" , "uh" "n" "t" - 2
+"unrealistic" - "un" "re" "al" "is" "tic" - "uh" "n" , "r" "ee" , "uh" , "l" "ih" "s" , "t" "ih" "k" - 4
+"until" - "un" "til" - "uh" "n" , "t" "ih" "l" - 2
+"unusual" - "un" "us" "u" "al" - "uh" "n" , "y" "uw" "zh" , "y" "uw" , "uh" "l" - 2
+"up" - "up" - "uh" "p" - 1
+"upon" - "up" "on" - "uh" "p" , "ah" "n" - 2
+"us" - "us" - "uh" "s" - 1
+"used" - "used" - "y" "uw" "z" "d" - 1
+"vary" - "var" "y" - "v" "ae" , "r" "ee" - 1
+"verses" - "ver" "ses" - "v" "uh" "r" , "s" "uh" "z" - 1
+"very" - "ver" "y" - "v" "ae" "r" , "ee" - 1
+"Viceroy" - "vice" "roy" - "v" "ai" "s" , "r" "oy" - 1
+"violin" - "vi" "o" "lin" - "v" "ai" , "uh" , "l" "ih" "n" - 3
+"virus" - "vi" "rus" - "v" "ai" , "r" "uh" "s" - 1
+"voice" - "voice" - "v" "oy" "s" - 1
+"void" - "void" - "v" "oy" "d" - 1
+"walk" - "walk" - "w" "au" "k" - 1
+"walked" - "walked" - "w" "au" "k" "d" - 1
+"walker" - "walk" "er" - "w" "au" "k" , "uh" "r" - 1
+"walter" - "wal" "ter" - "w" "au" "l" , "t" "uh" "r" - 1
+"wander" - "wan" "der" - "w" "ah" "n" , "d" "uh" "r" - 1
+"wandered" - "wan" "dered" - "w" "ah" "n" , "d" "uh" "r" "d" - 1
+"want" - "want" - "w" "ah" "n" "t" - 1
+"wanted" - "wan" "ted" - "w" "ah" "n" , "t" "uh" "d" - 1
+"wants" - "wants" - "w" "ah" "n" "t" "z" - 1
+"warts" - "warts" - "w" "au" "r" "t" "z" - 1
+"was" - "was" - "w" "uh" "z" - 1
+"watching" - "watch" "ing" - "w" "ah" , "ch" "ih" "ng" - 1
+"water" - "water" - "w" "au" , "t" "uh" "r" - 1
+"waterproof" - "wa" "ter" "proof" - "w" "au" , "t" "uh" "r" , "p" "r" "uw" "f" - 1
+"waved" - "waved" - "w" "ay" "v" "d" - 1
+"way" - "way" - "w" "ay" - 1
+"we" - "we" - "w" "ee" - 0
+"wearing" - "wear" "ing" - "w" "ae" "r" , "ih" "ng" - 1 
+"we¹d" - "we¹d" - "w" "ee" "d" - 0
+"weed" - "weed" - "w" "ee" "d" - 1
+"weeds" - "weeds" - "w" "ee" "d" "z" - 1
+"week" - "week" - "w" "ee" "k" - 1
+"weeks" - "weeks" - "w" "ee" "k" "z" - 1
+"weight" - "weight" - "w" "ay" "t" - 1
+"welcome" - "wel" "come" - "w" "eh" "l" , "k" "uh" "m" - 1
+"well" - "well" - "w" "eh" "l" - 1
+"wench" - "wench" - "w" "eh" "n" "ch" - 1
+"went" - "went" - "w" "eh" "n" "t" - 1
+"were" - "were" - "w" "ee" "r" - 0
+"we¹re" - "we¹re" - "w" "ee" "r" - 0
+"we¹ve" - "we¹ve" - "w" "ee" "v" - 0
+"weave" - "weave" - "w" "ee" "v" - 1
+"whale" - "whale" - "w" "ay" "l" - 1
+"what" - "what" - "w" "uh" "t" - 0
+"when" - "when" - "w" "eh" "n" - 0
+"where" - "where" - "w" "ae" "r" - 0
+"which" - "which" - "w" "ih" "ch" - 0
+"while" - "while" - "w" "ai" "l" - 0
+"white" - "white" - "w" "ai" "t" - 1
+"who" - "who" - "h" "uw" - 0
+"whose" - "whose" - "h" "uw" "z" - 0
+"why" - "why" - "w" "ai" - 0
+"why¹d" - "why¹d" - "w" "ai" "d" - 0
+"wide" - "wide" - "w" "ai" "d" - 1
+"will" - "will" - "w" "ih" "l" - 0
+"winter" - "win" "ter" - "w" "ih" "n" , "t" "uh" "r" - 1
+"wish" - "wish" - "w" "ih" "sh" - 1
+"wished" - "wished" - "w" "ih" "sh" "t" - 1
+"witch" - "witch" - "w" "ih" "ch" - 1
+"with" - "with" - "w" "ih" "th" - 0
+"withered" - "wi" "thered" - "w" "ih" "thh" , "uh" "r" "d" - 1
+"without" - "with" "out" - "w" "ih" "thh" , "ao" "t" - 2
+"wizard" - "wiz" "ard" - "w" "ih" "z" , "uh" "r" "d" - 1
+"woman" - "wom" "an" - "w" "oo" "m" , "uh" "n" - 1
+"wombat" - "wom" "bat" - "w" "ah" "m" , "b" "ae" "t" - 1
+"wood" - "wood" - "w" "oo" "d" - 1
+"word" - "word" - "w" "uh" "r" "d" - 1
+"wore" - "wore" - "w" "au" "r" - 1
+"work" - "work" - "w" "uh" "r" "k" - 1
+"worked" - "worked" - "w" "uh" "r" "k" - 1
+"would" - "would" - "w" "oo" "d" - 1
+"wouldn¹t" - "would" "n¹t" - "w" "oo" "d" , "uh" "n" "t" - 1
+"wren" - "wren" - "r" "eh" "n" - 1
+"wrinkly" - "wrin" "kly" - "r" "ih" "ng" , "k" "l" "ee" - 1
+"wrist" - "wrist" - "r" "ih" "s" "t" - 1
+"yard" - "yard" - "y" "ah" "r" "d" - 1
+"year" - "year" - "y" "ee" "r" - 1
+"years" - "years" - "y" "ee" "r" "z" - 1
+"yeti" - "yeti" - "y" "eh" , "t" "ee" - 1
+"you" - "you" - "y" "uw" - 1
+"young" - "young" - "y" "uh" "ng" - 1
+"your" - "your" - "y" "au" "r" - 0
+"you¹re" - "you¹re" - "y" "au" "r" - 0
+"you¹ve" - "you¹ve" - "y" "uw" "v" - 0
+STOP
