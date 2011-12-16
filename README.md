@@ -10,7 +10,7 @@ Code that I wrote as my college thesis project at the [State University of New Y
 
 I have left this code untouched for posterity's sake.  It is a code time capsule.
 
-A full account of the theory, model, documentation of code, and results of computational experiments can be found in thesis/doc/levythesis2000.pdf
+A full account of the theory, model, documentation of code, and results of computational experiments can be found in [thesis/doc/levythesis2000.pdf](https://github.com/rplevy/poevolve/blob/master/thesis/doc/levythesis2000.pdf?raw=true)
 
 Song Writer
 -----------
